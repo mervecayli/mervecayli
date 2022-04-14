@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mervecayli
 - 🌱 I’m currently learning: machine learning
-- 📫 You can reach me on Twitter: @mervecayli
+- 📫 You can reach me : caylimerve1905@gmail.com
 
 <!---
 mervecayli/mervecayli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
